@@ -39,7 +39,7 @@
 }
 
 /* Mobile defaults */
-.col-4 {
+.col-4, .col-12 {
   width: 100%;
 }
 
@@ -49,5 +49,8 @@
 
   .col-4 {
     width: 33.33333%;
+  }
+  .col-12 {
+    width: 100%;
   }
 }
